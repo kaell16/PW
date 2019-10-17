@@ -1,6 +1,30 @@
-p{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
+body{
+    margin-left: 300px;
+    margin-right: 315px;
+}
+h1{
+    text-align: center;
+    font-size: 19pt;
+}
+div#figure{
+    float: left;
+    width: 25%;
+    margin-left: 40px;
+}
+img#img1{
+    width: 225px;
+    padding-top: 18px;
+}
+figcaption#fig{
+    padding-left: 75px;
+    font-size: 10pt;
+}
+div#text{
+    padding-left: 297px;
+    text-align: justify;
+    color:blue;
+    text-indent: 2.5em;
+    font-size: 11.5pt;
 }
 div.box {
 	width: 250px;
