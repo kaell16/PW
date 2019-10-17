@@ -1,5 +1,5 @@
 body{
-    margin-left: 300px;
+    margin-left: 305px;
     margin-right: 315px;
 }
 h1{
@@ -26,11 +26,14 @@ div#text{
     text-indent: 2.5em;
     font-size: 11.5pt;
 }
+h2#title1{
+    font-size: 20px;
+    padding-top: 25px;
+}
 div.box {
-	width: 250px;
-	display: inline-block;
+    width: 250px;
+    display: inline-block;
 }
 .imagem {
     width: 225px;
-    height: 225px;
 }
