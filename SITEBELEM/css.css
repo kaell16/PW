@@ -1,5 +1,5 @@
 body{
-    margin-left: 305px;
+    margin-left: 300px;
     margin-right: 315px;
 }
 h1{
@@ -26,50 +26,10 @@ div#text{
     text-indent: 2.5em;
     font-size: 11.5pt;
 }
-.title2{
-    font-size: 18px;
-    padding-top: 25px;
-}
-.title3{
-    font-size: 16px;
-    color: blue;
-}
 .text2{
-    text-indent: 2.5em;
     text-align: justify;
+    text-indent: 2.5em;
     font-size: 11.5pt;
-}
-div.box {
-    width: 250px;
-    display: inline-block;
-}
-.imagem {
-    text-align: center;
-    width: 225px;
-    height: 150px;
-}
-.box {
-    width: 100%;
-    height: 100%;
-}
-.grade1 {
-    float: left;
-    width: 25%;
-    margin-left: 20px;
-    margin-right: 50px;
-}
-.box2 {
-    width: 100%;
-}
-.grade2 {
-    float: left;
-    width: 25%;
-    margin-left: 20px;
-    margin-right: 50px;
-}
-.fig2 {
-    padding-left: 85px;
-    font-size: 10pt;
 }
 div#text3{
     padding-left: 297px;
@@ -84,7 +44,6 @@ div#text4{
     text-indent: 2.5em;
     font-size: 11.5pt;
 }
-
 div#figure1{
     float: right;
     width: 25%;
@@ -98,8 +57,81 @@ figcaption#fig5{
     font-size: 10pt;
 }
 div#text5{
-    padding-right: 297px;
+    padding-right: 260px;
     text-align: justify;
     text-indent: 2.5em;
     font-size: 11.5pt;
+}
+.title2{
+    text-align: left;
+    font-size: 15pt;
+}
+.title3{
+    text-align: left;
+    font-size: 12pt;
+    color:blue;
+}
+div#imagens{
+    float: right;
+    padding-right: 50px;
+}
+div#imagens2{
+    float: right;
+}
+img#imgMM{
+    width: 225px;
+    padding-top: 18px;
+    padding-right: 30px;
+}
+figcaption#fig10{
+    padding-left: 55px;
+    font-size: 10pt;
+}
+img#imgM{
+    width: 225px;
+    padding-top: 18px;
+    padding-right: 20px;
+}
+figcaption#fig11{
+    padding-left: 55px;
+    font-size: 10pt;
+}
+div#text10{
+    padding-right: 600px;
+    padding-top:5px;
+    text-align: justify;
+    font-size: 11.5pt;
+}
+div#lista{
+    padding-top:5px;
+    text-align: justify;
+    text-indent: 2.5em;
+    font-size: 10pt;
+}
+.imagem {
+    text-align: center;
+    width: 225px;
+    height: 150px;
+}
+.boximg {
+    width: 100%;
+}
+.grade1 {
+    float: left;
+    width: 25%;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.boximg2 {
+    width: 100%;
+}
+.grade2 {
+    float: left;
+    width: 25%;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.fig10{
+    padding-left: 100px;
+    font-size: 10pt;
 }
